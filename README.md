@@ -34,14 +34,14 @@ The null hypothesis for these t-tests would be that the true mean is equal to 15
 
 #### What metric or metrics are you going to test?
 
-The metrics that would be tested in order to quantify how the MechaCar performs agaisnt the competition would be cost and fuel efficiency.
+The metrics that would be tested in order to quantify how the MechaCar performs agaisnt the competition would be fuel efficiency.
 
 #### What is the null hypothesis or alternative hypothesis?
 
-The **null hypothesis** would be that these metrics have no effect on the decision of the consumer while the **alternative hypothesis** would be that these metrics do have an effect on the decision of the consumer when they are purchasing a vehicle.
+The **null hypothesis** would be that MechaCar and their competition have no difference in the metric of cost while the **alternative hypothesis** would be that MechaCar and their competition have a difference in the metric of cost
 
 #### What statistical test would you use to test the hypothesis? And why?
 
-The statistical test that would be used to test the hypothesis would be the 
+The statistical test that would be used to test the hypothesis would be the two sample t-test. It can be used to see if the mean of the two groups is equal, which will allow us to figure out whether MechaCar's costs are different from their competition's 
 
 #### What data is needed to run the statistical test?
