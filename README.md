@@ -30,6 +30,6 @@ The current manufacturing data for all manufacturing lots meets the design speci
 
 The null hypothesis for these t-tests would be that the true mean is equal to 1500. Within these 4 t-tests, the only one that rejects the null hypothesis is the lot 3 t-test as the p-value for that dataset is 0.04, making it statistically significant. On the other hand, the remaining three t-tests fail to reject the null hypothesis. The t-test that includes the PSI across all manufacturing lots has a p-value of 0.06, the t-test that includes the PSI from Lot 1 has a p-value of 1 and the t-test that includes the PSI from Lot 2 has a p-value of 0.6. 
 
-## Study Design: vs Competition
+## Study Design: MechaCar vs Competition
 
 The metrics that would be tested in order to quantify how the MechaCar performs against the competition would be fuel efficiency. The **null hypothesis** would be that MechaCar and their competition have no cost difference while the **alternative hypothesis** would be that MechaCar and their competition have a difference in cost. The statistical test that would be used to test the hypothesis would be the two-sample t-test. It can be used to see if the mean of the two groups is equal, which will allow us to figure out whether MechaCar's costs are different from their competition's and will also tell us whose cost the consumer would prefer. In order to use the two-sample t-test, our data needs to be normally distributed, this means that the car data we would be using would need to be paired, comparing cars which are similar models and similar years. 
